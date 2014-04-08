@@ -1,9 +1,8 @@
 require 'bundler'
 Bundler.setup
 
-require 'pry'
+# require 'pry'
 require 'redis'
-require 'hiredis'
 require 'celluloid'
 require 'celluloid/io'  # Unclear if this is required, or if Celluloid will handle it.
 require 'celluloid/redis'
