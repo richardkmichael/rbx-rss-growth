@@ -1,3 +1,5 @@
+This repo is a reproduction testcase for [rubinius/rubinius#2995](https://github.com/rubinius/rubinius/issues/2995).
+
 You need Redis installed, these tests used Redis 2.8.7 and 2.8.8.
 
 ```
